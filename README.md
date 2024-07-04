@@ -1,1 +1,1 @@
-# TextGAN
+# PTS-GAN
